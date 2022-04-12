@@ -5,7 +5,7 @@
 # Site
 title: Peach
 subtitle: peach's blog
-description: ''
+description: 'test'
 keywords: equne 
 author: equne
 language: zh-CNs
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://equne.cn/
+url: https://equnee.github.io/
 permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
