@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Peach</title>
+  
+  <subtitle>peach&#39;s blog</subtitle>
+  <link href="http://equne.cn/atom.xml" rel="self"/>
+  
+  <link href="http://equne.cn/"/>
+  <updated>2022-04-12T09:04:26.622Z</updated>
+  <id>http://equne.cn/</id>
+  
+  <author>
+    <name>equne</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>蜜桃的打油诗</title>
+    <link href="http://equne.cn/2021/07/poems/"/>
+    <id>http://equne.cn/2021/07/poems/</id>
+    <published>2021-07-25T10:19:36.444Z</published>
+    <updated>2022-04-12T09:04:26.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>（还需要修改时间等信息</p><p>本文《蜜桃的诗》，收录自己从高中开始写的一些打油诗。<br>读着这些内容，不同时空的我都在想什么呢？</p><h1 id="2015"><a href="#2015" class="headerlink" title="2015"></a><a href="##">2015</a></h1><hr><p>✕</p><blockquote><p>2015-11-1</p><h5 id="外面救护车在跑"><a href="#外面救护车在跑" class="headerlink" title="外面救护车在跑"></a>外面救护车在跑</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">我还没有准备好</span><br></pre></td></tr></table></figure></blockquote><p>✕</p><blockquote><p>2015-11-6</p><h5 id="睡迟了水瓶甩进垃圾桶"><a href="#睡迟了水瓶甩进垃圾桶" class="headerlink" title="睡迟了水瓶甩进垃圾桶"></a>睡迟了水瓶甩进垃圾桶</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">躺在超市的货架里犹豫</span><br><span class="line">是选蜜桃橙子还是葡萄雪梨</span><br><span class="line">早晨美梦浸润着水果的香气</span><br><span class="line">冰淇淋缠绵着巧克力</span><br><span class="line">菠萝躺在西柚怀里</span><br><span class="line">饮料冰柜里醒来比谁都着急</span><br><span class="line">是选葡萄橙子还是蜜桃雪梨</span><br></pre></td></tr></table></figure></blockquote><p>✕</p><blockquote><p>2015-11-15</p><h5 id="过期的水蜜桃"><a href="#过期的水蜜桃" class="headerlink" title="过期的水蜜桃"></a>过期的水蜜桃</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">有点像你的味道</span><br></pre></td></tr></table></figure></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;（还需要修改时间等信息&lt;/p&gt;
+&lt;p&gt;本文《蜜桃的诗》，收录自己从高中开始写的一些打油诗。&lt;br&gt;读着这些内容，不同时空的我都在想什么呢？&lt;/p&gt;
+&lt;h1 id=&quot;2015&quot;&gt;&lt;a href=&quot;#2015&quot; class=&quot;headerlink&quot; title=&quot;2015&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
